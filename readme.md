@@ -11,7 +11,6 @@ This repository contains all the data, scripts, and instructions needed to run a
 - [Running the Fault Localization Process](#running-the-fault-localization-process)
 - [Merging Rankings](#merging-rankings)
 - [Evaluating Top-k Metrics](#evaluating-top-k-metrics)
-- [How to Cite](#how-to-cite)
 
 ---
 
